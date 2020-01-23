@@ -1,0 +1,28 @@
+body{
+  background-color:#EAF6F6;
+}
+
+h1{
+  color: #66BFBF;
+  text-decoration: wavy;
+}
+
+h3{
+  color: #66BFBF;
+  text-decoration:double;
+
+}
+h4{
+  color: #66BFBF;
+  text-transform: full-width;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-spacing: 7px;
+  height: 0;
+  width: 4%;
+}
